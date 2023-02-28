@@ -1,0 +1,1 @@
+geth --networkid 543212 --port 30303 --http --http.port 8545 --http.addr 0.0.0.0 --http.api personal,eth,net --http.corsdomain '*' --allow-insecure-unlock  --syncmode full 
