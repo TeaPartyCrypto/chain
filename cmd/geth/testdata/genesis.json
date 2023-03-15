@@ -1,6 +1,6 @@
 {
     "config": {
-      "chainId": 543212,
+      "chainId": 1773,
       "homesteadBlock": 0,
       "eip150Block": 0,
       "eip155Block": 0,
@@ -13,8 +13,8 @@
       "londonBlock": 0
     },
     "alloc": {
-      "0x5bbfa5724260Cb175cB39b24802A04c3bfe72eb3": {
-      "balance": "3000000000000000000000000"
+      "0x5dd4039c32F6EEF427D6F67600D8920c9631D59D": {
+      "balance": "4318260000000000000000000"
       }
     },
     "coinbase": "0x0000000000000000000000000000000000000000",
